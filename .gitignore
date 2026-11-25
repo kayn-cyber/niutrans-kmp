@@ -1,0 +1,24 @@
+# Gradle & Build
+.gradle/
+build/
+*/build/
+*.hprof
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Local / Secrets
+local.properties
+*.jks
+*.keystore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Xcode / iOS
+iosApp/xcuserdata/
+iosApp/*.xcworkspace/xcuserdata/
+DerivedData/
